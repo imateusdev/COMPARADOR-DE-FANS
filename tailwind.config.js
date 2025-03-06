@@ -1,4 +1,3 @@
-// filepath: d:\Downloads\FANS\tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
